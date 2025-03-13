@@ -1,5 +1,5 @@
 {
-    "name": "marshmallow/nova-charcounted-fields",
+    "name": "famcare/nova-charcounted-fields",
     "description": "Text and textarea fields with a character counter.",
     "keywords": [
         "laravel",
